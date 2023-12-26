@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F10E01E-241C-4238-8B48-EB63C20A7F11"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A80032F6-FE0B-42C0-B90C-1EDB1AC0A201"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Model/CoinManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "performRequest(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "681D00E9-B645-4542-BEDE-9057158E50FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "didUpdateCurrency(_:coin:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "681D00E9-B645-4542-BEDE-9057158E50FF - f895320dc6707d6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "681D00E9-B645-4542-BEDE-9057158E50FF - 93413bcef240e536"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "681D00E9-B645-4542-BEDE-9057158E50FF - f895320dc6707d49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDC3BCE5-C9DB-45BF-BFF4-E4D3F062CD26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "didUpdateCurrency(_:coin:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDC3BCE5-C9DB-45BF-BFF4-E4D3F062CD26 - 93413bcef240e557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "EDC3BCE5-C9DB-45BF-BFF4-E4D3F062CD26 - f895320dc6707d6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "EDC3BCE5-C9DB-45BF-BFF4-E4D3F062CD26 - 93413bcef240e557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51B536A9-0579-44A7-9A0E-A9AB341E03A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "didUpdateCurrency(_:coin:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51B536A9-0579-44A7-9A0E-A9AB341E03A0 - 93413bcef240e511"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "51B536A9-0579-44A7-9A0E-A9AB341E03A0 - f895320dc6707d49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ByteCoin.ViewController.didUpdateCurrency(_: ByteCoin.CoinManager, weather: ByteCoin.CoinModel) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shreyash/Downloads/IOS%20Project/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "095F6268-3016-4EAA-A88B-3EB7E9A17276"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Model/CoinManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "performRequest(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
